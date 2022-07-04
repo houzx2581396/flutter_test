@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:side_project/slider_page.dart';
 
+//test
 void main() {
   runApp(const MyApp());
 }
